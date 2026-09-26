@@ -1,6 +1,6 @@
 import streamlit as st
-  from core_engine import QuantumEngine
-  import pandas as pd
+from core_engine import QuantumEngine
+import pandas as pd
 
   # --- PAGE CONFIG ---
   st.set_page_config(page_title="Quantum Cashflow Terminal", page_icon="💎", layout="wide")
